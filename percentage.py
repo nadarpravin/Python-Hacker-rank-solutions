@@ -10,6 +10,6 @@ if __name__ == '__main__':
     a=0
     for i in student_marks[query_name]:
         a=a+i
-    print("{0:.2f}".format(a/3))
+    print("{0:.2f}".format(a/3))    #output formating
     
     
